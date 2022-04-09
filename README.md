@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @52147
-- 👀 I’m interested in watching movie.
-- 🌱 I’m currently learning java programming.
-- 💞️ I’m looking to collaborate on programming.
-- 📫 How to reach me? My Linkin is...
-
-
-<!---
-52147/52147 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Guessing Number
+### Description
+- Write a Java program that plays the game I am thinking of a number between 1and 1000. 
+- The computer will think of the number, and the user will repeatedly guess until they answer correctly. 
+- The program will tell the user if guesses are too high or too low. 
+- When the user guesses the correct number, the game should show the user how many turns it took. 
+- You must handle incorrect input (letters when numbers were wanted). 
